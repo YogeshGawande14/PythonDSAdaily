@@ -49,3 +49,23 @@ This repository organizes solutions by fundamental data structures and the essen
 ├── trees-graphs/          # DFS, BFS, Dijkstra, Union-Find
 ├── dynamic-programming/   # Memoization, Tabulation, Classic Patterns
 └── daily-tracker.md       # Log of solved daily questions
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0509-fibonacci-number) |
+<!---LeetCode Topics End-->
