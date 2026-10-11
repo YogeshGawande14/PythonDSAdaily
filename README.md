@@ -1,6 +1,6 @@
 # 🐍 Python Data Structures & Algorithms (DSA)
 
-A structured repository containing daily problem solutions, core patterns, and implementation templates for technical interview preparation.
+A structured repository containing daily problem solutions, core patterns, and implementation templates for technical interview preparation
 
 ---
 
