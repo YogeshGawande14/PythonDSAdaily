@@ -55,6 +55,7 @@ This repository organizes solutions by fundamental data structures and the essen
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
