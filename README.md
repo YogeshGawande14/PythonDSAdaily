@@ -69,4 +69,12 @@ This repository organizes solutions by fundamental data structures and the essen
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
