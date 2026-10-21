@@ -74,13 +74,31 @@ This repository organizes solutions by fundamental data structures and the essen
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0012-integer-to-roman) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
