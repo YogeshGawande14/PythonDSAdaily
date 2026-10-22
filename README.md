@@ -65,6 +65,7 @@ This repository organizes solutions by fundamental data structures and the essen
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -101,4 +102,8 @@ This repository organizes solutions by fundamental data structures and the essen
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
