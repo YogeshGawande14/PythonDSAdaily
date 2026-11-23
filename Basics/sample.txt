@@ -1,0 +1,21 @@
+Hi everyone,
+
+My name is Yogesh Gawande.
+
+I am currently pursuing Master of Computer Applications (MCA) at IMCC, Pune.
+
+I completed my graduation in Computer Science.
+
+I have a strong interest in Data Structures and Algorithms (DSA).
+
+I enjoy solving programming problems and improving my coding skills.
+
+My favorite programming languages are Java and Python.
+
+I am also learning Spring Boot, React, and Full-Stack Development.
+
+I have worked on projects such as Tixify, an online ticket booking system.
+
+My goal is to become a skilled software developer and build useful applications.
+
+Thank you for giving me the opportunity to introduce myself.
