@@ -58,6 +58,7 @@ This repository organizes solutions by fundamental data structures and the essen
 | [0009-palindrome-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0509-fibonacci-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ This repository organizes solutions by fundamental data structures and the essen
 | ------- |
 | [0001-two-sum](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0169-majority-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +108,16 @@ This repository organizes solutions by fundamental data structures and the essen
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YogeshGawande14/PythonDSAdaily/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
